@@ -1,0 +1,32 @@
+a.card-link{
+    font-weight: bold;
+}
+
+tr{
+    font-weight: bold;
+}
+
+table {
+cursor:pointer;
+}
+
+p.date{
+    display:inline;
+    font-size: 10px;
+    color: grey;
+    margin-left: 1vw;
+}
+
+a > button {
+    height: 1.2vw;
+    padding:0 px;
+    top: 50%;
+    margin: auto;
+    text-align: center;
+    margin-left: 1vw;
+}
+
+a>i {
+    margin-left: 1vw;
+    color:black;
+}
