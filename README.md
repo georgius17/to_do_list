@@ -1,7 +1,7 @@
 # to_do_list
 ### ✨ [Demo](https://georgius17.github.io/to_do_list/)
 
-> A simple to-do-list with localStorage. The project was made within Odin-project. 
+> A to-do-list application made within pure JavaScript(with the help of Webpack). The project was made within the Odin project. 
 
 ## Author
 
